@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "491330807886",
+    "firebase_url": "https://assigement2mobi.firebaseio.com",
+    "project_id": "assigement2mobi",
+    "storage_bucket": "assigement2mobi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491330807886:android:0af0a005abd9a2849d7b1f",
+        "android_client_info": {
+          "package_name": "com.e.assigement2_mobi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491330807886-h4b68gbv3kcftdqqn5ej0mp2vo0j5cg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.assigement2_mobi",
+            "certificate_hash": "09ceffbc523ab1e9da1cf578fc828c8cf91fead8"
+          }
+        },
+        {
+          "client_id": "491330807886-c2fmepklvpnkr1t1negseoigt90rdpk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNPArWVcRSg0PUxU5lS0b42wws2GXuZxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491330807886-c2fmepklvpnkr1t1negseoigt90rdpk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
