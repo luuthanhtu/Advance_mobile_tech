@@ -37,7 +37,8 @@ Hit save and Stored In Database:
 
 
 
-
+Sign Out: ![alt text](https://i.imgur.com/QTvhNlM.png
+)
 
 
 
