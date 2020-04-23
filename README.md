@@ -2,7 +2,7 @@
  
 This app is the Game Review app which help player to review the game they have played. The basic feature of the app is that user create the account. Then they use this account to login to the system. Next, they can write the review by proving the title, review and picture of the game. 
 
-The app flows. ![alt text](https://i.imgur.com/nStsEAj.png)
+The app flows. ![alt text](https://i.imgur.com/6skOzxO.png)
 
 
 In this app, the firebase database is used to store the user name as well as the user name.
@@ -41,5 +41,6 @@ Sign Out: ![alt text](https://i.imgur.com/QTvhNlM.png
 )
 
 
-
+MapPicker ![alt text](https://i.imgur.com/cYodgRT.jpg
+)
 
